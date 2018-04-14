@@ -1,6 +1,7 @@
 # DnD
 Drag and drop
-From https://www.w3schools.com/html/html5_draganddrop.asp 
+(From https://www.w3schools.com/html/html5_draganddrop.asp)
+https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_draganddrop
 + Netbeans project
 <br>
 <br>
